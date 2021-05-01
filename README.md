@@ -1,6 +1,6 @@
 # AI Snakes team of Serpentine
 
-<img src="https://serpentine.ai/wp-content/uploads/2019/12/Serpentine140.png" width="400px">
+<img src="https://serpentine.ai/wp-content/uploads/2019/02/Final-design-serpentine.png" width="400px">
 
 Welcome to the code repository of the [Serpentine](https://serpentineai.nl/) team that competed in the [AI Snakes competition](https://agrishchenko.wixsite.com/snakesai) in 2020.
 The team consisted of: Bram Grooten, Imre Schilstra, Wolf van der Hert, and Dik van Genuchten.
